@@ -1,2 +1,2 @@
 # git-github
-This project for testing 
+This project is for testing only
